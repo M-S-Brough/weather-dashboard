@@ -43,10 +43,10 @@ weather-dashboard/
 ## 📸 Screenshots
 
 ### 🔹 Current Weather + Background
-![Weather Overview](assets/Screenshot-2.png)
+![Weather Overview](assets/Screenshot-1.png)
 
 ### 🔹 5-Day Forecast in Action
-![Forecast Example](assets/Screenshot-1.png)
+![Forecast Example](assets/Screenshot-2.png)
 
 ## 📦 Setup Instructions
 
