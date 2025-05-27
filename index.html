@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Weather Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>🌤️ Weather Dashboard</h1>
+
+    <div class="search">
+      <input type="text" id="cityInput" placeholder="Enter city name..." />
+      <button id="getWeatherBtn">Get Weather</button>
+    </div>
+
+    <div id="searchHistory" class="history-buttons"></div>
+    <div class="clear-history-wrapper">
+  <button id="clearHistoryBtn">🗑️ Clear History</button>
+</div>
+
+
+
+    <div id="spinner" style="display: none;">
+      <div class="loader"></div>
+    </div>
+
+    <div id="weatherResult" class="weather-card"></div>
+  </div>
+
+  <footer></footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
+
