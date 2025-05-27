@@ -1,3 +1,4 @@
+// Insert your API Key here
 const API_KEY = "";
 
 // Convert wind degree to compass direction
