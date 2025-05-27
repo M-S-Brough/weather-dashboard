@@ -2,7 +2,8 @@
 
 A fully responsive and interactive weather application that allows users to search for real-time weather data and a 5-day forecast for any city worldwide. Built using **HTML**, **CSS**, and **JavaScript**, and powered by the **OpenWeatherMap API**.
 
-![banner](https://user-images.githubusercontent.com/weather-dashboard-banner.png)
+![Weather Dashboard Banner](weather-dashboard-banner.png)
+
 
 ---
 
