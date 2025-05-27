@@ -1,9 +1,7 @@
+![Weather Dashboard Banner](weather-dashboard-banner.png)
 # 🌦️ Weather Dashboard
 
 A fully responsive and interactive weather application that allows users to search for real-time weather data and a 5-day forecast for any city worldwide. Built using **HTML**, **CSS**, and **JavaScript**, and powered by the **OpenWeatherMap API**.
-
-![Weather Dashboard Banner](weather-dashboard-banner.png)
-
 
 ---
 
